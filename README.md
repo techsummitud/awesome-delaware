@@ -18,11 +18,13 @@ Scheduling
 * [Course Alert](http://udcoursealert.x10host.com/) (by our classmate [Chris Bubel](https://github.com/cbubel))
 * [Courses Search](https://udapps.nss.udel.edu/CoursesSearch/)
 
-Automation
----------
+Automation/Software
+-------------------
 
 * [Sakai Scraper](https://github.com/delucks/scripts/blob/master/sakai_util.py) (by our classmate [Jamie Luck](https://github.com/delucks))
 * [Shortcut to UDTime](http://udti.me)
+* [UD Licensed Software](http://udeploy.udel.edu)
+* [ECE/CIS Licensed Software](https://www.eecis.udel.edu/licdata/)
 
 Startup Resources
 -----------------
@@ -35,7 +37,8 @@ Miscellaneous
 -------------
 
 * [Free personal webpage hosting][strauss publish] is available [through your account on Strauss][strauss subdir]
-* Chat with us! The LUG hosts an IRC [server](irc://irc.lug.udel.edu)
+* Chat with us! The LUG hosts an IRC [server][lug irc]
 
 [strauss publish]: http://www.udel.edu/it/help/web-development/how-publish-your-web-pag.html 
 [strauss subdir]: http://www.udel.edu/it/help/web-development/how-set-your-subdirectory.html
+[lug irc]: http://lug.udel.edu/contact.php
