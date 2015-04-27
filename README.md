@@ -29,10 +29,13 @@ Startup Resources
 
 * [HenHatch](http://www.lerner.udel.edu/centers/horn-program-entrepreneurship/hen-hatch-funding-competition)
 * [Horn Program in Entrepreneurship](http://www.lerner.udel.edu/horn)
-* [Delhack](http://www.ecl.udel.edu/~acm/hack.html)
+* [Delhack](http://www.eecis.udel.edu/~acm/hack.html)
 
 Miscellaneous
 -------------
 
-* Free web hosting is available through your account on Strauss
+* [Free personal webpage hosting][strauss publish] is available [through your account on Strauss][strauss subdir]
 * Chat with us! The LUG hosts an IRC [server](irc://irc.lug.udel.edu)
+
+[strauss publish]: http://www.udel.edu/it/help/web-development/how-publish-your-web-pag.html 
+[strauss subdir]: http://www.udel.edu/it/help/web-development/how-set-your-subdirectory.html
